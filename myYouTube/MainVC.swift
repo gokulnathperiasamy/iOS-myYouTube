@@ -3,7 +3,7 @@
 //  myYouTube
 //
 //  Created by Gokul Nath KP on 06/02/17.
-//  Copyright © 2017 Gokul Nath KP. All rights reserved. 
+//  Copyright © 2017 Gokul Nath KP. All rights reserved.
 //
 
 import UIKit
