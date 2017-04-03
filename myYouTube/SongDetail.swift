@@ -97,6 +97,22 @@ class SongDetail {
         songDetail4.songAdditionalDetails = "Standard YouTube License - 2017"
         songDetailsList[3] = songDetail4
         
+        let songDetail5 = SongDetail()
+        songDetail5.songURL = "https://www.youtube.com/watch?v=sC2nElyx7Ds&feature=player_embedded"
+        songDetail5.songThumbnailURL = "http://raannt.com/wp-content/uploads/2013/10/enrique-iglesias-heart-attack-official-video_raannt.jpg"
+        songDetail5.songTitle = "Heart Attack"
+        songDetail5.songArtist = "Enrique Iglesias"
+        songDetail5.songAdditionalDetails = "Standard YouTube License - 2017"
+        songDetailsList[4] = songDetail5
+        
+        let songDetail6 = SongDetail()
+        songDetail6.songURL = "https://www.youtube.com/watch?v=UecPqm2Dbes&feature=player_embedded"
+        songDetail6.songThumbnailURL = "https://upload.wikimedia.org/wikipedia/en/c/c4/Tonight%2B%28I%27m%2Blovin%27%2Byou%29.jpg"
+        songDetail6.songTitle = "Tonight (I'm Lovin' You)"
+        songDetail6.songArtist = "Enrique Iglesias"
+        songDetail6.songAdditionalDetails = "Standard YouTube License - 2017"
+        songDetailsList[5] = songDetail6
+        
         return songDetailsList
     }
 }
